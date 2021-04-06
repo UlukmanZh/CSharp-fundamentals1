@@ -1,0 +1,13 @@
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.exe
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.deps.json
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.runtimeconfig.json
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.runtimeconfig.dev.json
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.dll
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\bin\Debug\netcoreapp3.1\Fundamentals1.pdb
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.csprojAssemblyReference.cache
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.AssemblyInfoInputs.cache
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.AssemblyInfo.cs
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.csproj.CoreCompileInputs.cache
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.dll
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.pdb
+C:\Users\uakma\Documents\cSharpStack\Fundamentals1\obj\Debug\netcoreapp3.1\Fundamentals1.genruntimeconfig.cache
